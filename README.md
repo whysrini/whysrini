@@ -1,3 +1,3 @@
-<h1 align="center">Hi 👋, I'm SRINI YARAGALLA</h1>
+<h1 align="center">Hi 👋, I'm SRINIVAS YARAGALLA</h1>
 
 
