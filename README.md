@@ -6,7 +6,7 @@
 <p>HospisRx is seeking to build a robust prescription claims adjudication, processing, and fulfillment platform, including delivery of a bi-directional Electronic Medical Record (EMR) interface, to serve hospice care facilities in the prescription drug management market.</p>
 <p>To best serve their customers, HospisRx will need to integrate with several 3rd party systems to facilitate data flow to meet their operational objectives.</p>
 <p>While the initial goal is to deliver a base platform, or Minimum Viable Product (MVP), with the purpose of achieving initial operational goals, HospisRx's long-term plan is to become a fully, self-serviced, and self-sufficient platform, serving the overall mission of HospisRx.</p>
-<h4>Google Play Store:</h4>
-<a href="https://play.google.com/store/apps/details?id=com.hospisrx.clinicianconnect&pli=1">
+<h4>Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.hospisrx.clinicianconnect&pli=1">
   HospisRx
-</a>
+</a></h4>
+
