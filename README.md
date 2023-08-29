@@ -8,4 +8,8 @@
   Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.hospisrx.clinicianconnect&pli=1" 
  target="_blank">HospisRx</a>
 </h4>
+<h4>
+  APP Store: <a href="https://apps.apple.com/us/app/hospisrx/id6447925925" 
+ target="_blank">HospisRx</a>
+</h4>
 
