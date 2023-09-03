@@ -51,5 +51,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
 <h4>Screenshots</h4>
 <p>
    <img src="content/Images/HospisRx-Screen01.png" style="width:200px;" />
+    <img src="content/Images/HospisRx-Screen02.png" style="width:200px;" />
+    <img src="content/Images/HospisRx-Screen03.png" style="width:200px;" />
 </p>
 
