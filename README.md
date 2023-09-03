@@ -49,4 +49,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
  target="_blank">HospisRx</a>
 </h4>
 <h4>Screenshots</h4>
+<p>
+   <img src="content/Images/HospisRx-Screen01.png" />
+</p>
 
