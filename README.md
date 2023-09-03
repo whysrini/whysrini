@@ -7,6 +7,7 @@ I have a passion for mobile application development and love creating innovative
 My expertise includes developing custom UI components, integrating REST APIs, Firebase, and SQLite databases, and optimizing application performance. I have a good understanding of Git version control and follow best practices to ensure clean, maintainable, and well-documented code.
 </p>
 <h3>Tech Stack:</h3>
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 <h2>Projects</h2>
 <h3>HospisRx</h3>
 <p>With the proprietary HospisRx Mobile App, your clinical team has access to patients at their fingertips. Your nurses and physicians spend less time on the phone and more time on what matters most: spending time at the patient’s bedside. With HospisRx Technology, nurses can connect securely anytime and anywhere on any internet connected device.</p>
