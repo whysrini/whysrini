@@ -54,10 +54,10 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
     <img src="content/Images/HospisRx-Screen02.png" style="width:200px;" />
     <img src="content/Images/HospisRx-Screen03.png" style="width:200px;" />
    <img src="content/Images/HospisRx-Screen04.png" style="width:200px;" />
-    <img src="content/Images/HospisRx-Screen05.png" style="width:200px;" />
-     <img src="content/Images/HospisRx-Screen06.png" style="width:200px;" />
-   <img src="content/Images/HospisRx-Screen07.png" style="width:200px;" />
-   <img src="content/Images/HospisRx-Screen08.png" style="width:200px;" />
-   <img src="content/Images/HospisRx-Screen09.png" style="width:200px;" />
+    <img src="content/Images/HospisRx-Screen05.webp" style="width:200px;" />
+     <img src="content/Images/HospisRx-Screen06.webp" style="width:200px;" />
+   <img src="content/Images/HospisRx-Screen07.webp" style="width:200px;" />
+   <img src="content/Images/HospisRx-Screen08.webp" style="width:200px;" />
+   <img src="content/Images/HospisRx-Screen09.webp" style="width:200px;" />
 </p>
 
