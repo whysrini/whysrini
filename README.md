@@ -37,6 +37,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
  </p>
+<hr/>
 <h2>Projects</h2>
 <h3>HospisRx</h3>
 <p>With the proprietary HospisRx Mobile App, your clinical team has access to patients at their fingertips. Your nurses and physicians spend less time on the phone and more time on what matters most: spending time at the patient’s bedside. With HospisRx Technology, nurses can connect securely anytime and anywhere on any internet connected device.</p>
@@ -48,7 +49,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
   APP Store: <a href="https://apps.apple.com/us/app/hospisrx/id6447925925" 
  target="_blank">HospisRx</a>
 </h4>
-(---)
+<hr/>
 <h3>TrackA</h3>
 <!--<h4>Screenshots</h4>
 <p>
