@@ -6,6 +6,7 @@ I have a passion for mobile application development and love creating innovative
 
 My expertise includes developing custom UI components, integrating REST APIs, Firebase, and SQLite databases, and optimizing application performance. I have a good understanding of Git version control and follow best practices to ensure clean, maintainable, and well-documented code.
 </p>
+<h2>Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
 <h2>Projects</h2>
 <h3>HospisRx</h3>
