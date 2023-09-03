@@ -8,6 +8,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
 </p>
 <h3>Tech Stack:</h3>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
 <h2>Projects</h2>
 <h3>HospisRx</h3>
 <p>With the proprietary HospisRx Mobile App, your clinical team has access to patients at their fingertips. Your nurses and physicians spend less time on the phone and more time on what matters most: spending time at the patient’s bedside. With HospisRx Technology, nurses can connect securely anytime and anywhere on any internet connected device.</p>
