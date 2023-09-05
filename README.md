@@ -51,18 +51,8 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
 </h4>
 
 <h3>TrackA</h3>
-<h5>.....rendering remaining part</h5>
-
-<!--<h4>Screenshots</h4>
 <p>
-   <img src="content/Images/HospisRx-Screen01.png" style="width:200px;" />
-    <img src="content/Images/HospisRx-Screen02.png" style="width:200px;" />
-    <img src="content/Images/HospisRx-Screen03.png" style="width:200px;" />
-   <img src="content/Images/HospisRx-Screen04.png" style="width:200px;" />
-    <img src="content/Images/HospisRx-Screen05.webp" style="width:200px;" />
-     <img src="content/Images/HospisRx-Screen06.webp" style="width:200px;" />
-   <img src="content/Images/HospisRx-Screen07.webp" style="width:200px;" />
-   <img src="content/Images/HospisRx-Screen08.webp" style="width:200px;" />
-   <img src="content/Images/HospisRx-Screen09.webp" style="width:200px;" />
-</p>-->
+   TrackA as the name itself depicts, is a fully configurable low power Vehicle Tracking System device. It was designed to be versatile and flexible enough to       fit into any vehicle tracking scenario, be it for tracking Bikes, Cars, Trucks and Your Kid School Bag.
+</p>
+
 
