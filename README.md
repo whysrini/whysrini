@@ -67,7 +67,6 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
 <h3>TrackA</h3>
 TrackA as the name itself depicts, is a fully configurable low power Vehicle Tracking System device. It was designed to be versatile and flexible enough to       fit into any vehicle tracking scenario, be it for tracking Bikes, Cars, Trucks and Your Kid School Bag.
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
    </body>
 </html>
 
