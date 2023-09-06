@@ -54,15 +54,7 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
 </h4>
 
 <div class="table-wrapper" markdown="block">
-   <img src="/content/Images/HospisRx-Screen01.png"  />
-    <img src="/content/Images/HospisRx-Screen01.png"  />
-    <img  src="/content/Images/HospisRx-Screen01.png"  />|
-    <img  src="/content/Images/HospisRx-Screen01.png"  />
-    <img src="/content/Images/HospisRx-Screen01.png" />
-    <img src="/content/Images/HospisRx-Screen01.png"  />
-   <img src="/content/Images/HospisRx-Screen01.png"  />
-    <img src="/content/Images/HospisRx-Screen01.png" />
-    <img src="/content/Images/HospisRx-Screen01.png"  />
+   <img src="/content/Images/HospisRx-Screen01.png"  />|<img src="/content/Images/HospisRx-Screen01.png"  />
 </div>
 
 
