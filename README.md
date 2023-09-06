@@ -1,3 +1,8 @@
+.table-wrapper {
+  overflow-x: scroll;
+}
+# Markdown table-wrapper {#identifier .table-wrapper}
+
 <h1>Hi 👋, I'm SRINI YARAGALLA</h1>
 <p>
 Hi there, I am a .NET Developer with 13 years of experience in developing high-quality Web and cross-platform mobile applications using .NET MAUI and C# programming language.
@@ -59,6 +64,15 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
     <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
+</div>
+
+<div class="table-wrapper" markdown="block">
+
+|      | col_name1 | col_name2 | col_name3 | col_name4 | col_name5 | col_name6 | col_name7 | col_name8 | col_name9 | col_name0 |
+|------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| row1 |           |           |           |           |           |           |           |           |           |           |
+| row2 |           |           |           |           |           |           |           |           |           |           |
+
 </div>
 
 <h3>TrackA</h3>
