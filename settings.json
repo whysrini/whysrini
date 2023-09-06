@@ -1,5 +1,6 @@
 {
     "markdown.styles": [
-        "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css",
+        "/content/styles.cs"
     ]
 }
