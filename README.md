@@ -1,6 +1,9 @@
-
-
-<h1>Hi 👋, I'm SRINI YARAGALLA</h1>
+<html>
+   <head>
+      
+   </head>
+   <body>
+      <h1>Hi 👋, I'm SRINI YARAGALLA</h1>
 
 Hi there, I am a .NET Developer with 13 years of experience in developing high-quality Web and cross-platform mobile applications using .NET MAUI and C# programming language.
 
@@ -61,5 +64,9 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
 
 <h3>TrackA</h3>
 TrackA as the name itself depicts, is a fully configurable low power Vehicle Tracking System device. It was designed to be versatile and flexible enough to       fit into any vehicle tracking scenario, be it for tracking Bikes, Cars, Trucks and Your Kid School Bag.
+   </body>
+</html>
+
+
 
 
