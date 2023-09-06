@@ -51,10 +51,10 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
   APP Store: <a href="https://apps.apple.com/us/app/hospisrx/id6447925925" 
  target="_blank">HospisRx</a>
 </h4>
-<div class="table-wrapper" markdown="block">
+<!--<div class="table-wrapper" markdown="block">
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
-</div>
+</div> -->
 
 <h3>TrackA</h3>
 <p>
