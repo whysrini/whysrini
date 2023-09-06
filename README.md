@@ -62,8 +62,15 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
 </h4>
 
 <div class="cover-container">
-   <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
-   <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
+   <img class="cover-item" src="/content/Images/HospisRx-Screen01.png"  />
+    <img class="cover-item" src="/content/Images/HospisRx-Screen01.png"  />
+    <img class="cover-item" src="/content/Images/HospisRx-Screen01.png"  />|
+    <img class="cover-item" src="/content/Images/HospisRx-Screen01.png"  />
+    <img class="cover-item" src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
+    <img class="cover-item" src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
+   <img class="cover-item" src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
+    <img class="cover-item" src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
+    <img class="cover-item" src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
 </div>
 <!--<div class="table-wrapper" markdown="block">
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
