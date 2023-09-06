@@ -1,7 +1,4 @@
-.table-wrapper {
-  overflow-x: scroll;
-}
-# Markdown table-wrapper {#identifier .table-wrapper}
+
 
 <h1>Hi 👋, I'm SRINI YARAGALLA</h1>
 <p>
