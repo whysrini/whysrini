@@ -1,3 +1,10 @@
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
 <h1>Hi 👋, I'm SRINI YARAGALLA</h1>
 <p>
 Hi there, I am a .NET Developer with 13 years of experience in developing high-quality Web and cross-platform mobile applications using .NET MAUI and C# programming language.
