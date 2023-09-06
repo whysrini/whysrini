@@ -63,15 +63,6 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
     <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
 </div>
 
-<div class="table-wrapper" markdown="block">
-
-|      | col_name1 | col_name2 | col_name3 | col_name4 | col_name5 | col_name6 | col_name7 | col_name8 | col_name9 | col_name0 |
-|------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| row1 |           |           |           |           |           |           |           |           |           |           |
-| row2 |           |           |           |           |           |           |           |           |           |           |
-
-</div>
-
 <h3>TrackA</h3>
 <p>
    TrackA as the name itself depicts, is a fully configurable low power Vehicle Tracking System device. It was designed to be versatile and flexible enough to       fit into any vehicle tracking scenario, be it for tracking Bikes, Cars, Trucks and Your Kid School Bag.
