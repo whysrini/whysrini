@@ -53,7 +53,7 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
  target="_blank">HospisRx</a>
 </h4>
 
-<div class="cover-container">
+<div class="table-wrapper" markdown="block">
    <img src="/content/Images/HospisRx-Screen01.png"  />
     <img src="/content/Images/HospisRx-Screen01.png"  />
     <img  src="/content/Images/HospisRx-Screen01.png"  />|
@@ -64,10 +64,7 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
     <img src="/content/Images/HospisRx-Screen01.png" />
     <img src="/content/Images/HospisRx-Screen01.png"  />
 </div>
-<!--<div class="table-wrapper" markdown="block">
-   <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
-   <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />|<img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
-</div> -->
+
 
 <h3>TrackA</h3>
 TrackA as the name itself depicts, is a fully configurable low power Vehicle Tracking System device. It was designed to be versatile and flexible enough to       fit into any vehicle tracking scenario, be it for tracking Bikes, Cars, Trucks and Your Kid School Bag.
