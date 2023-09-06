@@ -49,7 +49,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
   APP Store: <a href="https://apps.apple.com/us/app/hospisrx/id6447925925" 
  target="_blank">HospisRx</a>
 </h4>
-<div style="height:200px; width:400px; overflow:hidden;overflow-x: auto;">
+<div style="height:200px; width:400px; overflow:hidden;overflow-x: auto;" markdown="block">
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
