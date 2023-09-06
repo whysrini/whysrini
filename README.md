@@ -1,13 +1,13 @@
 
 
 <h1>Hi 👋, I'm SRINI YARAGALLA</h1>
-<p>
+
 Hi there, I am a .NET Developer with 13 years of experience in developing high-quality Web and cross-platform mobile applications using .NET MAUI and C# programming language.
 
 I have a passion for mobile application development and love creating innovative solutions that meet the needs of clients and end-users. I have a strong proficiency in C# programming language and a proven track record of developing high-quality mobile applications using .NET MAUI SDK.
 
 My expertise includes developing custom UI components, integrating REST APIs, Firebase, and SQLite databases, and optimizing application performance. I have a good understanding of Git version control and follow best practices to ensure clean, maintainable, and well-documented code.
-</p>
+
 <h3>Tech Stack:</h3>
 <p>
    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
