@@ -49,7 +49,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
   APP Store: <a href="https://apps.apple.com/us/app/hospisrx/id6447925925" 
  target="_blank">HospisRx</a>
 </h4>
-<div style="max-height:200px;">
+<div style="max-height:200px;overflow:hidden;overflow-x: auto;">
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
@@ -58,6 +58,7 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
+    <img src="/content/Images/HospisRx-Screen01.png" style="width:100px;" />
 </div>
 
 <h3>TrackA</h3>
