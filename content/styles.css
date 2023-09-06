@@ -6,7 +6,7 @@
     overflow-x: scroll;
     overflow-y: hidden;
 }
-.cover-container a img{
+div a img{
     position: relative;
     display: inline-block;
     margin: 8px 8px;
