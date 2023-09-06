@@ -53,9 +53,9 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
  target="_blank">HospisRx</a>
 </h4>
 
-<div class="table-wrapper" markdown="block">
+<!--<div class="table-wrapper" markdown="block">
    <img src="/content/Images/HospisRx-Screen01.png"  />|<img src="/content/Images/HospisRx-Screen01.png"  />
-</div>
+</div>-->
 
 
 <h3>TrackA</h3>
