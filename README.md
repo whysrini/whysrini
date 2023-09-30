@@ -62,7 +62,7 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
 <h3>TrackA</h3>
 TrackA as the name itself depicts, is a fully configurable low power Vehicle Tracking System device. It was designed to be versatile and flexible enough to       fit into any vehicle tracking scenario, be it for tracking Bikes, Cars, Trucks and Your Kid School Bag.
 <h4>Technologies</h4>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" />
+<p><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" /></p>
 
 <h3>SMART</h3>
 SMART is seeking to identify the best path forward for their existing cross-platform app currently built using version 3 of the ionic framework. SMART has attempted to upgrade the core framework of the app to version 4 of the ionic framework and in so doing, have encountered a significant number of breaking changes to their app.
