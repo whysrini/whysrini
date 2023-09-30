@@ -44,14 +44,14 @@ My expertise includes developing custom UI components, integrating REST APIs, Fi
 
 With the proprietary HospisRx Mobile App, your clinical team has access to patients at their fingertips. Your nurses and physicians spend less time on the phone and more time on what matters most: spending time at the patient’s bedside. With HospisRx Technology, nurses can connect securely anytime and anywhere on any internet connected device.
 
-<h4>
+<h5>
   Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.hospisrx.clinicianconnect&pli=1" 
  target="_blank">HospisRx</a>
-</h4>
-<h4>
+</h5>
+<h5>
   APP Store: <a href="https://apps.apple.com/us/app/hospisrx/id6447925925" 
  target="_blank">HospisRx</a>
-</h4>
+</h5>
 
 <!--<div class="table-wrapper" markdown="block">
    <img src="/content/Images/HospisRx-Screen01.png"  />|<img src="/content/Images/HospisRx-Screen01.png"  />
