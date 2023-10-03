@@ -62,7 +62,7 @@ With the proprietary HospisRx Mobile App, your clinical team has access to patie
 TrackA as the name itself depicts, is a fully configurable low power Vehicle Tracking System device. It was designed to be versatile and flexible enough to       fit into any vehicle tracking scenario, be it for tracking Bikes, Cars, Trucks and Your Kid School Bag.
 
 <h3>SMART</h3>
-The new SMART app gets information to members faster and easier than ever before! STAY INFORMED Keep up to date with SMART news, and receive important...
+The new SMART app gets information to members faster and easier than ever before! STAY INFORMED Keep up to date with SMART news, and receive important updates for International Association of Sheet Metal, Air, Rail and Transportation Workers.
 
 
 
